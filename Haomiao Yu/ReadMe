@@ -1,0 +1,12 @@
+#Web-Eco-Group-21/HaomiaoYu
+In this individual part, GBDT is used for feature selection.
+
+Run DataPreprocessing.py to get the clean data to feed in Gradient Boosting Classifier.
+
+Run GBDTLR.py to get important features and train Logistic Regression Classifier.
+
+optimalGBDTLR.py to get the tuned parameters.
+
+two Jupyter notebooks to compare results: CTR Estimator(GBDT+LR)-with tuned parameters.ipynb, CTR Estimator(GBDT+LR).ipynb
+
+Dataset: the dataset of this task can be downloaded from https://drive.google.com/file/d/0B73mmT9K2b4EZkZacFVBRDJtdzQ/view
