@@ -66,4 +66,4 @@ with open('importantFeatureIndCombined', 'w') as myfile:
     wr.writerow(index)
 
     
-    
+   
