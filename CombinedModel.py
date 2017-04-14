@@ -64,3 +64,6 @@ import csv
 with open('importantFeatureIndCombined', 'w') as myfile:
     wr = csv.writer(myfile,  dialect='excel')
     wr.writerow(index)
+
+    
+    
