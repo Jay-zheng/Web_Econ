@@ -1,5 +1,7 @@
-The fitst Data exploration item is designed for to explore obvious data figure in terms of different fictures.
-The secons Data Process item is set for data pre-processing for further logistic regression, such as feature selection, as mentioned in the report
-The last LG, denoting Logistic Regression, clearly shows out my result.
+#The fitst Data exploration item is designed for to explore obvious data figure in terms of different fictures.
+
+#The secons Data Process item is set for data pre-processing for further logistic regression, such as feature selection, as mentioned in the report
+
+#The last LG, denoting Logistic Regression, clearly shows out my result.
 
 Please run them in sequence to reproduce my result. 
